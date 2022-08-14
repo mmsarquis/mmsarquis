@@ -1,6 +1,6 @@
 # Hi, I'm Marcelo 👋
 
-I'm a Software Engineer who loves to build new technology and enrich people's lives. 
+I'm a software engineer who loves to build new technology and enrich people's lives. 
 
 ## Find me around the web 🌎
 
